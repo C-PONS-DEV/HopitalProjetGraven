@@ -12,6 +12,6 @@ Contact email: contact@clement-pons.com
 
 Installation:
 
-- In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/HopitalProjetGraven-CPONS
+- In a terminal: cd Desktop && git clone https://github.com/C-PONS-DEV/HopitalProjetGraven
 
 - Open the index.html with a web browser
